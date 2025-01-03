@@ -2,4 +2,4 @@
 
 
 
-This repo is justa collection of small single page websites that I use as desktops
+This repo is just a collection of small single page websites that I use as desktops
